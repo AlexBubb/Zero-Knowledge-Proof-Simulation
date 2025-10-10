@@ -1,14 +1,3 @@
-/* 
-* Name: Alex Bubb
-* Period: 3 
-*  
-* 4th quarter project 
-* 
-* On my honor, by submitting this code I am claiming that it was written and tested by me. 
-* Any help I received was in the form of asking questions for clarification and no direct copying was done. 
-* 
-*/
-
 /*
 This is a 0 knowledge proof for graph coloring
 What is graph coloring?
