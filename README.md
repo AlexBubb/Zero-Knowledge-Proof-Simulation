@@ -11,7 +11,7 @@ How does my simulation work?
 There are two classes simulating conversation facilitated by MyProgram. The program is designed such that the two classes can only request specific types of data from each other outlined in the algorithm. Although both classes are run locally it would not be challenging to implement over the internet since they only communicate through the middleman MyProgram
 
 DEMO GUIDE:
-To run the demo you must have a version of java installed. Download and extract files and run the MyProgram.jar file.
+To run the demo you must have a version of java installed. Download and extract files. Then in the directory from the terminal run java -jar MENACEtictactoe.jar
 colors.txt + edges.txt is a valid graph coloring solution
 wrongcolors.txt + edges.txt is an invalid solution
 
